@@ -1,2 +1,2 @@
 # Achievement System Feature 
-- Tracks player high scores and unlockable game achievements 
+- Player achievements and high score milestone tracking 
