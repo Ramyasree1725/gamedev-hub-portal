@@ -1,2 +1,2 @@
-# Leaderboard Enhancements 
-- Top scores filtering and responsive leaderboard stats 
+# Leaderboard API Guide 
+- Real-time leaderboard rankings and score filtering 
