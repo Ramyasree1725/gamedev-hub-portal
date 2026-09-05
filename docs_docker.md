@@ -1,2 +1,2 @@
-# Docker Container Support 
-- Containerized deployment configuration for GameDev Hub 
+# Docker Deployment Guide 
+- Multi-stage container build and production configuration 
