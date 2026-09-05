@@ -1,13 +1,13 @@
 .PHONY: install run test docker-build docker-run clean
 
 install:
-	cd backend && pip install -r requirements.txt
+	pip install -r requirements.txt
 
 run:
-	cd backend && python app.py
+	python app.py
 
 test:
-	cd backend && python -m pytest tests/ -v --tb=short
+	pytest backend/tests -v --tb=short
 
 docker-build:
 	docker build -t gamedev-hub .

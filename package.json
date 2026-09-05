@@ -2,9 +2,9 @@
   "name": "gamedev-hub",
   "version": "1.0.0",
   "description": "GameDev Learning Hub and Mini-Games Portal",
-  "main": "backend/app.py",
+  "main": "app.py",
   "scripts": {
-    "start": "python backend/app.py",
+    "start": "python app.py",
     "test": "pytest backend/tests",
     "build": "docker build -t gamedev-hub ."
   },
