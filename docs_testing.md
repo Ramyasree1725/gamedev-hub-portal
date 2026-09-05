@@ -1,2 +1,2 @@
-# Test Coverage Suite 
-- Automated test suite for backend API and mini-games 
+# Test Suite Guide 
+- Automated pytest test suite and coverage reporting 
