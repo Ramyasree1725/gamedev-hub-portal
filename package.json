@@ -1,0 +1,19 @@
+{
+  "name": "gamedev-hub",
+  "version": "1.0.0",
+  "description": "GameDev Learning Hub and Mini-Games Portal",
+  "main": "backend/app.py",
+  "scripts": {
+    "start": "python backend/app.py",
+    "test": "pytest backend/tests",
+    "build": "docker build -t gamedev-hub ."
+  },
+  "keywords": [
+    "gamedev",
+    "learning-portal",
+    "flask",
+    "javascript-games"
+  ],
+  "author": "Medha",
+  "license": "UNLICENSED"
+}
